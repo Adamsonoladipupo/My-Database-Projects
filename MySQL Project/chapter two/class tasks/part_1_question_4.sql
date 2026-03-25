@@ -1,2 +1,2 @@
 use classic_models_db;
-select customerName, city from Customers;
+select contactFirstName,contactLastName,country from Customers;
